@@ -1,0 +1,11 @@
+.one-div {
+  border: 1px solid red;
+  width: 60%;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-flow: column nowrap;
+}

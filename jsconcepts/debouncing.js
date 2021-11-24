@@ -16,4 +16,4 @@ const debounce = (fn, d) => {
     }
 }
 
-const optimistic = debounce(getData, 300);
+const optimistic = debounce(getData, 1000);

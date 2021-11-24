@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 1vh;
+  border: 1px solid #48cae4;
+}
+
+.container div {
+  border: 1px rgb(218, 213, 213) solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+.container div button {
+  background-color: green;
+  border-radius: 25px;
+}
+
+.box-1 {
+  flex: 1;
+}
+
+.box-2 {
+  flex: 1;
+}
+
+.box-3 {
+  flex: 1;
+}

@@ -1,0 +1,38 @@
+===================================================
+Public sapients
+1. call bind apply
+2. setState
+3. React event binding 
+4. Css box model and Flexbox
+5. Closures
+6. new Function
+7. Closures drawbacks - variables are not garbage collected, memory snap of app is increased if closure is not handled properly
+8. ProtoTypes
+9. ProtoTypical inheritence
+=====================================================
+
+
+===================================================================
+Wipro
+1.flatenning a array
+==================================================================
+LTurbo
+1. insert array at any point
+2. debouncing
+
+
+
+==================================================================
+TCS - on hold
+altimetrik - rejected
+CGI - declined for 12.5Lac including variable pay
+ITC infoTech -- declined
+Public sapients - rejected
+Deloitee - rejected - online exam
+Wipro - rejected - multiple times
+L&T - rejected -
+Accenture - accepted - 11 lac + 2.5 bonus
+HCL - Accepted - 15 lac with variable pay
+IBM - declined
+PWC - not scheduled
+EY - not scheduled
